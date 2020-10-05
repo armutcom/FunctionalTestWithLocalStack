@@ -1,0 +1,9 @@
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\bin\Debug\netstandard2.0\ArmutLocalStackSample.Core.deps.json
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\bin\Debug\netstandard2.0\ArmutLocalStackSample.Core.dll
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\bin\Debug\netstandard2.0\ArmutLocalStackSample.Core.pdb
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\obj\Debug\netstandard2.0\ArmutLocalStackSample.Core.AssemblyInfoInputs.cache
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\obj\Debug\netstandard2.0\ArmutLocalStackSample.Core.AssemblyInfo.cs
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\obj\Debug\netstandard2.0\ArmutLocalStackSample.Core.dll
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\obj\Debug\netstandard2.0\ArmutLocalStackSample.Core.pdb
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\obj\Debug\netstandard2.0\ArmutLocalStackSample.Core.csprojAssemblyReference.cache
+C:\Users\Armut Yedek\source\repos\ArmutLocalStackSample\ArmutLocakStackSample.Core\obj\Debug\netstandard2.0\ArmutLocalStackSample.Core.csproj.CoreCompileInputs.cache

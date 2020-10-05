@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28c476c8_002D3e40_002D464c_002D9dbb_002Db144d6571559/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddMovie_Should_Return_200" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7C06C45C-487D-46BC-8C0C-79B36FB446B4::.NETCoreApp,Version=v3.1::ArmutLocalStackSample.FunctionalTests.Scenarios.MovieScenarios.AddMovie_Should_Return_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0d47312_002D5b8d_002D4a8d_002D9f4f_002D5e2d8e9e18e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddMovie_Should_Return_200 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7C06C45C-487D-46BC-8C0C-79B36FB446B4::.NETCoreApp,Version=v3.1::ArmutLocalStackSample.FunctionalTests.Scenarios.MovieScenarios.AddMovie_Should_Return_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Dtos/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

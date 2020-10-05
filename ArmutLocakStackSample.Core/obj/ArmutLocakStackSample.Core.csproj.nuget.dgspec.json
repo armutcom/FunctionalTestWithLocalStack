@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Armut Yedek\\source\\repos\\ArmutLocalStackSample\\ArmutLocakStackSample.Core\\ArmutLocakStackSample.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Armut Yedek\\source\\repos\\ArmutLocalStackSample\\ArmutLocakStackSample.Core\\ArmutLocakStackSample.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armut Yedek\\source\\repos\\ArmutLocalStackSample\\ArmutLocakStackSample.Core\\ArmutLocakStackSample.Core.csproj",
+        "projectName": "ArmutLocakStackSample.Core",
+        "projectPath": "C:\\Users\\Armut Yedek\\source\\repos\\ArmutLocalStackSample\\ArmutLocakStackSample.Core\\ArmutLocakStackSample.Core.csproj",
+        "packagesPath": "C:\\Users\\Armut Yedek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armut Yedek\\source\\repos\\ArmutLocalStackSample\\ArmutLocakStackSample.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Armut Yedek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.5.0.10, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2020.1.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Mapster.Async": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
